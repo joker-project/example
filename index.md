@@ -14,4 +14,4 @@ This is a list:
 
 [lien vers f1](f1)
 
-[lien vers f2](f2)
+[lien vers f2](dossier/f2)
