@@ -16,4 +16,4 @@ This is a list:
 
 [lien vers f2](dossier/f2)
 
-[lien absolut ver f2](https://www.joker-project.com/example/dossier/f2)
+[lien absolut vers f2](https://www.joker-project.com/example/dossier/f2)
