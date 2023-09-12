@@ -4,3 +4,10 @@
 
 ### H3
 This is an example of a page
+
+This is a list:
+* item 1
+* item 2
+
+*italic*
+**gras**
